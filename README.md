@@ -26,4 +26,9 @@ This project is part of a Deloitte Data Analytics job simulation. The task was t
   * **Down Time per Device Type**
 * Built a dashboard with filter functionality to drill into factory-level insights
 
+✅ Conclusions & Key Findings:
 
+🏭 Seiko Factory in Osaka had the highest machine downtime.
+🔧 Certain machine types caused repeated “unhealthy” alerts.
+📊 Dashboard helped visualize and filter key problem areas.
+✅ Insights support better maintenance and reduced delays.
